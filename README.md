@@ -25,18 +25,19 @@ No additional libraries are required as the application uses standard Java libra
 
 Installation
 
-Ensure JDK is installed on your system. Verify by running:java -version
+🔗 Ensure JDK is installed on your system. Verify by running:  
+    java -version
 
+🔗 Save the provided Java code in a file named: 
+    StudentGradeTrackerGUI.java.
+    
+🔗 Compile the code:
+    javac StudentGradeTrackerGUI.java
 
-Save the provided Java code in a file named StudentGradeTrackerGUI.java.
-Compile the code:javac StudentGradeTrackerGUI.java
+🔗  Run the application:
+    java StudentGradeTrackerGUI
 
-
-Run the application:java StudentGradeTrackerGUI
-
-
-
-Usage
+  Usage: 
 
 Launch the application using the steps above.
 In the input panel:
