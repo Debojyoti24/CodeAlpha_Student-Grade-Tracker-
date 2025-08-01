@@ -34,15 +34,6 @@ The `StudentGradeTrackerGUI` class is the main entry point for the application. 
 - `addStudent()`: Handles the addition of a new student to the list.
 - `updateSummary()`: Updates the summary statistics displayed in the GUI.
 
-## Contributing
-
-If you would like to contribute to the Student Grade Tracker project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the original repository.
 
 ## License
 
